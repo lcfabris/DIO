@@ -11,3 +11,16 @@
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.genruntimeconfig.cache
+D:\Luiz\Documentos\#0 Bootcamp-TakiBlip\Criando um APP simples de cadastro de séries em .NET\DIO\bin\Debug\netcoreapp3.1\DIO.Series.exe
+D:\Luiz\Documentos\#0 Bootcamp-TakiBlip\Criando um APP simples de cadastro de séries em .NET\DIO\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+D:\Luiz\Documentos\#0 Bootcamp-TakiBlip\Criando um APP simples de cadastro de séries em .NET\DIO\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+D:\Luiz\Documentos\#0 Bootcamp-TakiBlip\Criando um APP simples de cadastro de séries em .NET\DIO\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+D:\Luiz\Documentos\#0 Bootcamp-TakiBlip\Criando um APP simples de cadastro de séries em .NET\DIO\bin\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Luiz\Documentos\#0 Bootcamp-TakiBlip\Criando um APP simples de cadastro de séries em .NET\DIO\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\Luiz\Documentos\#0 Bootcamp-TakiBlip\Criando um APP simples de cadastro de séries em .NET\DIO\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+D:\Luiz\Documentos\#0 Bootcamp-TakiBlip\Criando um APP simples de cadastro de séries em .NET\DIO\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+D:\Luiz\Documentos\#0 Bootcamp-TakiBlip\Criando um APP simples de cadastro de séries em .NET\DIO\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+D:\Luiz\Documentos\#0 Bootcamp-TakiBlip\Criando um APP simples de cadastro de séries em .NET\DIO\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Luiz\Documentos\#0 Bootcamp-TakiBlip\Criando um APP simples de cadastro de séries em .NET\DIO\obj\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Luiz\Documentos\#0 Bootcamp-TakiBlip\Criando um APP simples de cadastro de séries em .NET\DIO\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\Luiz\Documentos\#0 Bootcamp-TakiBlip\Criando um APP simples de cadastro de séries em .NET\DIO\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
